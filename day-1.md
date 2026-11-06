@@ -21,3 +21,5 @@ After day $d_1$, I completed $c^2$ practice tasks.
 $$
 p = \frac{c}{t} \times 100
 $$
+
+c is the cost, t is the total amount, and p is the percentage
