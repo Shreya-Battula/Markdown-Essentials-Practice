@@ -71,7 +71,8 @@ The course's Actions checks evaluate submissions!
 
 ## Supporting
 
-
+Make sure to include info such as the lesson number, attempted action, and error message. Avoid posting private information.
+[Issues](https://github.com/Shreya-Battula/Markdown-Essentials-Practice/issues)
 
 ## License
 
