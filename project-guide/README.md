@@ -55,7 +55,7 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/Shreya-Battula/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
 
@@ -72,6 +72,11 @@ The course's Actions checks evaluate submissions!
 ## Support
 
 For extra help, go to the [Issues tab](https://github.com/Shreya-Battula/Markdown-Essentials-Practice/issues). Include the lesson number, attempted action, and error message. Avoid posting private information.
+
+## Troubleshooting
+
+How to fix cat: "day-1.md: No such file or directory"
+Enter the cloned repository folder and check that the journal exists on the selected branch.
 
 ## License
 
