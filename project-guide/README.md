@@ -69,7 +69,7 @@ Preview Markdown and check links: In the top left corner next to the edit button
 Open a pull request with a useful description: Check the notification that pops up when you pull to see the changes
 The course's Actions checks evaluate submissions!
 
-## Supporting
+## Support
 
 For extra help, go to the [Issues tab](https://github.com/Shreya-Battula/Markdown-Essentials-Practice/issues). Include the lesson number, attempted action, and error message. Avoid posting private information.
 
