@@ -78,6 +78,13 @@ For extra help, go to the [Issues tab](https://github.com/Shreya-Battula/Markdow
 How to fix cat: "day-1.md: No such file or directory"
 Enter the cloned repository folder and check that the journal exists on the selected branch.
 
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
+
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
