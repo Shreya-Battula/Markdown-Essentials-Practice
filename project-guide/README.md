@@ -61,6 +61,18 @@ cd skills-communicate-using-markdown
 
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
 
+## Contributing
+
+How to fork or create a branch: Click on the code tab, then create a new branch button
+Make a focused change: Go to the top right corner and click on the pencil button to edit the file 
+Preview Markdown and check links: In the top left corner next to the edit button, click the preview button to preview the markdown
+Open a pull request with a useful description: Check the notification that pops up when you pull to see the changes
+The course's Actions checks evaluate submissions!
+
+## Supporting
+
+
+
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
